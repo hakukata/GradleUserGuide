@@ -1,5 +1,7 @@
 # Gradle User Guide 中文版
 
+> 本开源书 forked from [Gradle User Guide 中文版](https://github.com/DONGChuan/GradleUserGuide)，作者为 [GradleUserGuide](https://github.com/GradleUserGuide)，欢迎大家 star 原作者的 [repo](https://github.com/DONGChuan/GradleUserGuide)，以便获得最新更新，谢谢！
+
 ### [阅读地址](http://dongchuan.gitbooks.io/gradle-user-guide-/)
 
 * Gradle User Guide 中文版 目前正在翻译当中, 由于这本 guide 的英文版某些部分非常难以理解, 我们也会加入自己的观点和例子, 并不会完全照搬翻译, 希望大家理解也欢迎大家一起加入和完善
